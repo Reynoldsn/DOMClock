@@ -4,6 +4,8 @@ setInterval(updateTime, 1000);
 
 });
 
+// Creates a function and variables needed to make a clock
+
 var updateTime = function() {
 
   var time = new Date();
